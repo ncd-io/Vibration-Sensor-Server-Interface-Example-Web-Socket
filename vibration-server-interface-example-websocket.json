@@ -1,0 +1,1268 @@
+[
+    {
+        "id": "20dc98d83473c16a",
+        "type": "tab",
+        "label": "Gateway",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "b2996e3d20f77b1c",
+        "type": "tab",
+        "label": "Server",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "da1870771e0bc91a",
+        "type": "group",
+        "z": "b2996e3d20f77b1c",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "118bdb9e826a1ce8",
+            "a4ccda6f636a37fc",
+            "632e70b5717481b0",
+            "44dd99e88b6ee125"
+        ],
+        "x": 74,
+        "y": 99,
+        "w": 512,
+        "h": 142
+    },
+    {
+        "id": "58ae7d3223e445e1",
+        "type": "group",
+        "z": "b2996e3d20f77b1c",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "fefbb7c844dfe147",
+            "7b2f2898c93648d7",
+            "ec6ce3ad2aac9f01",
+            "1e2baecec9d6d23d"
+        ],
+        "x": 74,
+        "y": 359,
+        "w": 572,
+        "h": 142
+    },
+    {
+        "id": "9eb4ef284614d7e6",
+        "type": "group",
+        "z": "b2996e3d20f77b1c",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "559e7267ee086f77",
+            "7622be339d8dd82d",
+            "ca0940903e129e84"
+        ],
+        "x": 74,
+        "y": 619,
+        "w": 552,
+        "h": 82
+    },
+    {
+        "id": "6da5875a19cb34e5",
+        "type": "group",
+        "z": "b2996e3d20f77b1c",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "fe4e9e0ddcc644e4",
+            "bf424b6dc5ee0c55"
+        ],
+        "x": 54,
+        "y": 799,
+        "w": 512,
+        "h": 82
+    },
+    {
+        "id": "96786f2994c2fd73",
+        "type": "group",
+        "z": "20dc98d83473c16a",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "c576c57d028e64c0",
+            "bbc3e8edc5f33ae6",
+            "4eb6b8433904c544",
+            "5e2dbfb0e7ea6fbb",
+            "0c666420e58aaa36",
+            "3c70d19b6e89dc21",
+            "9bc546e399a35f7d",
+            "7269e5cf8ff5f94e",
+            "4cf684116b4fcae7",
+            "3faf32b1dfcc0c74",
+            "f5a0a14f9c065de3",
+            "025659c679528018",
+            "f7059a5e37c86653",
+            "47638235f0ffd141",
+            "0181abe5d2cdb5f1",
+            "ec6506d79a342c91",
+            "6528654aa6720947",
+            "3854f9d1ce657baa"
+        ],
+        "x": 264,
+        "y": 119,
+        "w": 1502,
+        "h": 282
+    },
+    {
+        "id": "d92ee015b32ba34e",
+        "type": "group",
+        "z": "20dc98d83473c16a",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3ed9999ae970665e",
+            "e815b910d663aeca",
+            "237d1d4ef8f45730",
+            "7948c1ee691f4b46"
+        ],
+        "x": 334,
+        "y": 459,
+        "w": 1052,
+        "h": 122
+    },
+    {
+        "id": "31924070e2e8502c",
+        "type": "group",
+        "z": "20dc98d83473c16a",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6e6d7d4fc50747ca",
+            "2f9dd8e281ad5d67",
+            "7f5b964b95b6272c",
+            "ed52998526108290",
+            "2bf57043934ce34f",
+            "4f1c412c9048199c",
+            "ae793e2a7111d22e",
+            "091e50136e39a47c"
+        ],
+        "x": 354,
+        "y": 679,
+        "w": 592,
+        "h": 222
+    },
+    {
+        "id": "ea6ae98cc14cea9d",
+        "type": "group",
+        "z": "20dc98d83473c16a",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1c82716d11efca40",
+            "94a25a9d60a8c3b1",
+            "e558a3830a7f176a"
+        ],
+        "x": 334,
+        "y": 979,
+        "w": 652,
+        "h": 122
+    },
+    {
+        "id": "0a1b14b41a21b998",
+        "type": "ncd-gateway-config",
+        "name": "",
+        "comm_type": "serial",
+        "ip_address": "",
+        "tcp_port": "2101",
+        "port": "/dev/ttymxc2",
+        "baudRate": "115200",
+        "pan_id": "7FFF",
+        "rssi": false
+    },
+    {
+        "id": "78bb0c9b63576dee",
+        "type": "websocket-listener",
+        "path": "/sensors",
+        "wholemsg": "true"
+    },
+    {
+        "id": "4a5e6144cb89e18e",
+        "type": "websocket-client",
+        "path": "ws://localhost:1880/sensors",
+        "tls": "",
+        "wholemsg": "false",
+        "hb": "0",
+        "subprotocol": ""
+    },
+    {
+        "id": "ca9f4a61b9d251b3",
+        "type": "websocket-listener",
+        "path": "/force-trigger",
+        "wholemsg": "false"
+    },
+    {
+        "id": "aa34cd665f908805",
+        "type": "websocket-client",
+        "path": "ws://localhost:1880/force-trigger",
+        "tls": "",
+        "wholemsg": "false",
+        "hb": "0",
+        "subprotocol": ""
+    },
+    {
+        "id": "1c6e8773832b3428",
+        "type": "websocket-listener",
+        "path": "/data",
+        "wholemsg": "false"
+    },
+    {
+        "id": "e91ed546ee7ca051",
+        "type": "websocket-client",
+        "path": "ws://localhost:1880/data",
+        "tls": "",
+        "wholemsg": "false",
+        "hb": "0",
+        "subprotocol": ""
+    },
+    {
+        "id": "dddea81e4abd9fb7",
+        "type": "websocket-listener",
+        "path": "/sensors/clear",
+        "wholemsg": "false"
+    },
+    {
+        "id": "38e9afec3fb0163f",
+        "type": "websocket-client",
+        "path": "ws://localhost:1880/sensors/clear",
+        "tls": "",
+        "wholemsg": "false",
+        "hb": "0",
+        "subprotocol": ""
+    },
+    {
+        "id": "2f9dd8e281ad5d67",
+        "type": "websocket in",
+        "z": "20dc98d83473c16a",
+        "g": "31924070e2e8502c",
+        "name": "/sensors",
+        "server": "",
+        "client": "4a5e6144cb89e18e",
+        "x": 460,
+        "y": 760,
+        "wires": [
+            [
+                "ed52998526108290",
+                "2bf57043934ce34f"
+            ]
+        ]
+    },
+    {
+        "id": "7f5b964b95b6272c",
+        "type": "websocket out",
+        "z": "20dc98d83473c16a",
+        "g": "31924070e2e8502c",
+        "name": "/sensors Response",
+        "server": "",
+        "client": "4a5e6144cb89e18e",
+        "x": 830,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "c576c57d028e64c0",
+        "type": "ncd-gateway-node",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "",
+        "connection": "0a1b14b41a21b998",
+        "unknown_devices": 0,
+        "outputs": 1,
+        "x": 470,
+        "y": 240,
+        "wires": [
+            [
+                "bbc3e8edc5f33ae6",
+                "4eb6b8433904c544"
+            ]
+        ]
+    },
+    {
+        "id": "bbc3e8edc5f33ae6",
+        "type": "switch",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "Switch on topic",
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "sensor_data",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "sensor_mode",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 680,
+        "y": 240,
+        "wires": [
+            [
+                "5e2dbfb0e7ea6fbb",
+                "f5a0a14f9c065de3"
+            ],
+            [
+                "0c666420e58aaa36"
+            ]
+        ]
+    },
+    {
+        "id": "4eb6b8433904c544",
+        "type": "debug",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 660,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "5e2dbfb0e7ea6fbb",
+        "type": "function",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "Restructure Data",
+        "func": "if(Object.hasOwn(msg.payload.sensor_data,'data')){\n    node.warn('In if');\n    node.warn(msg.payload.sensor_data.data);\n    let reworked_data = {\n        x: [],\n        y: [],\n        z: []\n    };\n    for(let reading in msg.payload.sensor_data.data){\n        reworked_data.x.push(msg.payload.sensor_data.data[reading].x);\n        reworked_data.y.push(msg.payload.sensor_data.data[reading].y);\n        reworked_data.z.push(msg.payload.sensor_data.data[reading].z);\n    };\n    msg.payload.sensor_data.data = reworked_data;\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 910,
+        "y": 200,
+        "wires": [
+            [
+                "ec6506d79a342c91",
+                "6528654aa6720947"
+            ]
+        ]
+    },
+    {
+        "id": "eb2c4416cdc16c17",
+        "type": "inject",
+        "z": "20dc98d83473c16a",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 340,
+        "y": 60,
+        "wires": [
+            [
+                "1508301f66b2a879"
+            ]
+        ]
+    },
+    {
+        "id": "1508301f66b2a879",
+        "type": "exec",
+        "z": "20dc98d83473c16a",
+        "command": "pm2 restart all",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 580,
+        "y": 60,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "0c666420e58aaa36",
+        "type": "switch",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "FLY Messages",
+        "property": "payload.mode",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "FLY",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 900,
+        "y": 280,
+        "wires": [
+            [
+                "3c70d19b6e89dc21",
+                "7269e5cf8ff5f94e"
+            ]
+        ]
+    },
+    {
+        "id": "3c70d19b6e89dc21",
+        "type": "switch",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "Has Config Data",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "hask",
+                "v": "reported_config",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 1180,
+        "y": 280,
+        "wires": [
+            [
+                "9bc546e399a35f7d",
+                "4cf684116b4fcae7"
+            ]
+        ]
+    },
+    {
+        "id": "9bc546e399a35f7d",
+        "type": "function",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "Store Sensor Configs",
+        "func": "msg.payload.reported_config.last_fly = msg.payload.lastHeard;\nmsg.payload.reported_config.type = msg.payload.type;\nmsg.payload.reported_config.nodeId = msg.payload.nodeId;\nlet sensors = global.get('sensor_configs');\nif(typeof sensors === 'undefined'){\n    sensors = {};\n}\nsensors[msg.payload.mac] = msg.payload.reported_config;\nnode.warn(sensors);\nglobal.set('sensor_configs', sensors);\nmsg.payload = sensors;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1400,
+        "y": 280,
+        "wires": [
+            [
+                "3faf32b1dfcc0c74"
+            ]
+        ]
+    },
+    {
+        "id": "ed52998526108290",
+        "type": "function",
+        "z": "20dc98d83473c16a",
+        "g": "31924070e2e8502c",
+        "name": "function 3",
+        "func": "msg.payload = global.get('sensor_configs')\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 760,
+        "wires": [
+            [
+                "6e6d7d4fc50747ca",
+                "7f5b964b95b6272c",
+                "ae793e2a7111d22e"
+            ]
+        ]
+    },
+    {
+        "id": "6e6d7d4fc50747ca",
+        "type": "debug",
+        "z": "20dc98d83473c16a",
+        "g": "31924070e2e8502c",
+        "name": "debug 4",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 800,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "2bf57043934ce34f",
+        "type": "debug",
+        "z": "20dc98d83473c16a",
+        "g": "31924070e2e8502c",
+        "name": "debug 5",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 640,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "7269e5cf8ff5f94e",
+        "type": "debug",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "debug 6",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1160,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "4cf684116b4fcae7",
+        "type": "debug",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "debug 7",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1360,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "4f1c412c9048199c",
+        "type": "inject",
+        "z": "20dc98d83473c16a",
+        "g": "31924070e2e8502c",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "sensor_configs",
+        "payloadType": "global",
+        "x": 500,
+        "y": 820,
+        "wires": [
+            [
+                "6e6d7d4fc50747ca"
+            ]
+        ]
+    },
+    {
+        "id": "94a25a9d60a8c3b1",
+        "type": "inject",
+        "z": "20dc98d83473c16a",
+        "g": "ea6ae98cc14cea9d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 440,
+        "y": 1020,
+        "wires": [
+            [
+                "1c82716d11efca40"
+            ]
+        ]
+    },
+    {
+        "id": "1c82716d11efca40",
+        "type": "change",
+        "z": "20dc98d83473c16a",
+        "g": "ea6ae98cc14cea9d",
+        "name": "",
+        "rules": [
+            {
+                "t": "delete",
+                "p": "sensor_configs",
+                "pt": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 840,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3faf32b1dfcc0c74",
+        "type": "debug",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "debug 8",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1660,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "e815b910d663aeca",
+        "type": "function",
+        "z": "20dc98d83473c16a",
+        "g": "d92ee015b32ba34e",
+        "name": "Add incoming device to context",
+        "func": "msg.payload = JSON.parse(msg.payload);\nvar newDevices = msg.payload.sensorSerialNumbers;\nvar existingDevices = flow.get('devices');\n\nif(typeof existingDevices == 'undefined'){\n    flow.set('devices',newDevices);\n    msg.payload.devices = newDevices;\n    return msg;\n}else{\n    for(let newDevice of newDevices){\n        var exists = false;\n        for(let existingDevice of existingDevices){\n            if(newDevice == existingDevice){\n                exists = true;\n                break;\n            }\n        }\n        if(!exists){\n            existingDevices.push(newDevice);\n        } \n    }\n}\nflow.set('devices',existingDevices);\nmsg.payload.sensorSerialNumbers = existingDevices;\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 850,
+        "y": 540,
+        "wires": [
+            [
+                "7948c1ee691f4b46",
+                "3ed9999ae970665e"
+            ]
+        ]
+    },
+    {
+        "id": "237d1d4ef8f45730",
+        "type": "websocket in",
+        "z": "20dc98d83473c16a",
+        "g": "d92ee015b32ba34e",
+        "name": "",
+        "server": "",
+        "client": "aa34cd665f908805",
+        "x": 510,
+        "y": 540,
+        "wires": [
+            [
+                "e815b910d663aeca"
+            ]
+        ]
+    },
+    {
+        "id": "ae793e2a7111d22e",
+        "type": "debug",
+        "z": "20dc98d83473c16a",
+        "g": "31924070e2e8502c",
+        "name": "debug 10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "7948c1ee691f4b46",
+        "type": "debug",
+        "z": "20dc98d83473c16a",
+        "g": "d92ee015b32ba34e",
+        "name": "debug 11",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1120,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "3ed9999ae970665e",
+        "type": "websocket out",
+        "z": "20dc98d83473c16a",
+        "g": "d92ee015b32ba34e",
+        "name": "",
+        "server": "",
+        "client": "aa34cd665f908805",
+        "x": 1210,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "f5a0a14f9c065de3",
+        "type": "function",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "Handle Time Series Request",
+        "func": "if(msg.payload.sensor_data.mode == 2){\n    var devices = flow.get('devices');\n    var deviceID = msg.payload.addr;\n    if(typeof devices == 'undefined')return;\n\n    for(var i = 0; i < devices.length; i++){\n        // console.log('device: '+devices[i]+' deviceID: '+deviceID);\n        if(deviceID == devices[i]){\n            msg.payload = {};\n            msg.payload.address = deviceID;\n            // msg.payload.address = \"00:00:00:00:00:00:ff:ff\"\n            msg.payload.data = [0xf4, 0x4f, 0x00, 0x00, 0x00, 0x13];\n            devices.splice(i,1);\n            return msg;\n        }\n    }\n}else if(msg.payload.sensor_data.mode == 1){\n    var devices = flow.get('devices');\n    var deviceID = msg.payload.addr;\n    if(typeof devices == 'undefined')return;\n    for(var i = 0; i < devices.length; i++){\n        if(deviceID == devices[i]){\n            delete devices[i];\n            flow.set('devices');\n        }\n    }\n    msg.payload = devices;\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 160,
+        "wires": [
+            [
+                "025659c679528018"
+            ]
+        ]
+    },
+    {
+        "id": "025659c679528018",
+        "type": "delay",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "100",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "outputs": 1,
+        "x": 1170,
+        "y": 160,
+        "wires": [
+            [
+                "f7059a5e37c86653"
+            ]
+        ]
+    },
+    {
+        "id": "f7059a5e37c86653",
+        "type": "link out",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "send_cmd_out",
+        "mode": "link",
+        "links": [
+            "47638235f0ffd141"
+        ],
+        "x": 1275,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "47638235f0ffd141",
+        "type": "link in",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "send_cmd_in",
+        "links": [
+            "f7059a5e37c86653"
+        ],
+        "x": 305,
+        "y": 240,
+        "wires": [
+            [
+                "c576c57d028e64c0",
+                "0181abe5d2cdb5f1"
+            ]
+        ]
+    },
+    {
+        "id": "0181abe5d2cdb5f1",
+        "type": "debug",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "debug 13",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 440,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "ec6506d79a342c91",
+        "type": "websocket out",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "",
+        "server": "",
+        "client": "e91ed546ee7ca051",
+        "x": 1230,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "6528654aa6720947",
+        "type": "debug",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "debug 15",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1160,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "091e50136e39a47c",
+        "type": "inject",
+        "z": "20dc98d83473c16a",
+        "g": "31924070e2e8502c",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "devices",
+        "payloadType": "flow",
+        "x": 470,
+        "y": 860,
+        "wires": [
+            [
+                "6e6d7d4fc50747ca"
+            ]
+        ]
+    },
+    {
+        "id": "e558a3830a7f176a",
+        "type": "websocket in",
+        "z": "20dc98d83473c16a",
+        "g": "ea6ae98cc14cea9d",
+        "name": "",
+        "server": "",
+        "client": "38e9afec3fb0163f",
+        "x": 530,
+        "y": 1060,
+        "wires": [
+            [
+                "1c82716d11efca40"
+            ]
+        ]
+    },
+    {
+        "id": "3854f9d1ce657baa",
+        "type": "inject",
+        "z": "20dc98d83473c16a",
+        "g": "96786f2994c2fd73",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "sensor_data",
+        "payload": "{\"nodeId\":0,\"firmware\":7,\"battery\":\"3.27\",\"battery_percent\":\"97.12\",\"counter\":19,\"sensor_type\":80,\"sensor_data\":{\"time_id\":\"0:20\",\"mac_address\":\"00:13:a2:00:41:ea:97:1a\",\"en_axis\":7,\"fsr\":\"8g\",\"odr\":800,\"device_temp\":23.27,\"data\":{\"1\":{\"x\":0.01,\"y\":0,\"z\":0},\"2\":{\"x\":0,\"y\":0,\"z\":0},\"3\":{\"x\":0,\"y\":0,\"z\":0},\"4\":{\"x\":0,\"y\":0,\"z\":0},\"5\":{\"x\":0,\"y\":0,\"z\":0},\"6\":{\"x\":0,\"y\":0,\"z\":0},\"7\":{\"x\":0,\"y\":0,\"z\":0},\"8\":{\"x\":0,\"y\":0,\"z\":0},\"9\":{\"x\":0,\"y\":0,\"z\":0},\"10\":{\"x\":0,\"y\":0,\"z\":-0.01},\"11\":{\"x\":0,\"y\":0,\"z\":-0.01},\"12\":{\"x\":0,\"y\":0,\"z\":0},\"13\":{\"x\":0,\"y\":0,\"z\":0},\"14\":{\"x\":0,\"y\":0,\"z\":0},\"15\":{\"x\":0,\"y\":0,\"z\":0},\"16\":{\"x\":0,\"y\":0,\"z\":0.01},\"17\":{\"x\":0,\"y\":0,\"z\":0.01},\"18\":{\"x\":0,\"y\":0,\"z\":0},\"19\":{\"x\":0,\"y\":-0.01,\"z\":0},\"20\":{\"x\":0,\"y\":0,\"z\":0},\"21\":{\"x\":0,\"y\":0,\"z\":0},\"22\":{\"x\":0,\"y\":0,\"z\":0},\"23\":{\"x\":0,\"y\":0,\"z\":0},\"24\":{\"x\":0,\"y\":-0.01,\"z\":0},\"25\":{\"x\":0,\"y\":-0.01,\"z\":0},\"26\":{\"x\":0,\"y\":0,\"z\":0},\"27\":{\"x\":0,\"y\":0,\"z\":0},\"28\":{\"x\":-0.01,\"y\":0,\"z\":0},\"29\":{\"x\":0,\"y\":0,\"z\":0},\"30\":{\"x\":0,\"y\":0,\"z\":0},\"31\":{\"x\":0,\"y\":0,\"z\":0},\"32\":{\"x\":0,\"y\":0,\"z\":0},\"33\":{\"x\":0,\"y\":0,\"z\":-0.01},\"34\":{\"x\":0,\"y\":0,\"z\":-0.01},\"35\":{\"x\":0,\"y\":0,\"z\":0},\"36\":{\"x\":0,\"y\":0,\"z\":0},\"37\":{\"x\":0,\"y\":0,\"z\":0},\"38\":{\"x\":0,\"y\":0,\"z\":0},\"39\":{\"x\":0,\"y\":0,\"z\":0},\"40\":{\"x\":0,\"y\":0,\"z\":0},\"41\":{\"x\":0,\"y\":0,\"z\":0},\"42\":{\"x\":0,\"y\":0,\"z\":0},\"43\":{\"x\":0,\"y\":0,\"z\":0},\"44\":{\"x\":0,\"y\":0,\"z\":0},\"45\":{\"x\":0,\"y\":0,\"z\":0},\"46\":{\"x\":0,\"y\":0,\"z\":0},\"47\":{\"x\":0,\"y\":0,\"z\":0},\"48\":{\"x\":0,\"y\":0,\"z\":0},\"49\":{\"x\":0,\"y\":-0.01,\"z\":0},\"50\":{\"x\":0,\"y\":0,\"z\":0},\"51\":{\"x\":0,\"y\":0,\"z\":0},\"52\":{\"x\":0,\"y\":0.01,\"z\":0},\"53\":{\"x\":0,\"y\":0,\"z\":0},\"54\":{\"x\":0,\"y\":0,\"z\":0},\"55\":{\"x\":0,\"y\":0,\"z\":0},\"56\":{\"x\":0,\"y\":0,\"z\":0},\"57\":{\"x\":0,\"y\":0,\"z\":0.01},\"58\":{\"x\":0,\"y\":0,\"z\":0},\"59\":{\"x\":0,\"y\":0,\"z\":0},\"60\":{\"x\":0,\"y\":0,\"z\":0},\"61\":{\"x\":0,\"y\":0,\"z\":-0.01},\"62\":{\"x\":0,\"y\":0,\"z\":-0.01},\"63\":{\"x\":0,\"y\":0,\"z\":0},\"64\":{\"x\":0,\"y\":-0.01,\"z\":0.01},\"65\":{\"x\":0,\"y\":0,\"z\":0},\"66\":{\"x\":0,\"y\":0,\"z\":0},\"67\":{\"x\":0,\"y\":0,\"z\":0},\"68\":{\"x\":0,\"y\":0,\"z\":0},\"69\":{\"x\":0,\"y\":0,\"z\":0.01},\"70\":{\"x\":0,\"y\":0,\"z\":0.01},\"71\":{\"x\":0,\"y\":0,\"z\":0},\"72\":{\"x\":0,\"y\":0,\"z\":0},\"73\":{\"x\":0,\"y\":0,\"z\":0},\"74\":{\"x\":0,\"y\":0,\"z\":0},\"75\":{\"x\":0,\"y\":0,\"z\":0},\"76\":{\"x\":0,\"y\":0,\"z\":0},\"77\":{\"x\":0,\"y\":0,\"z\":0},\"78\":{\"x\":0,\"y\":0,\"z\":0},\"79\":{\"x\":0,\"y\":0,\"z\":-0.01},\"80\":{\"x\":0,\"y\":0,\"z\":0},\"81\":{\"x\":0,\"y\":0,\"z\":0},\"82\":{\"x\":0,\"y\":0,\"z\":0},\"83\":{\"x\":0,\"y\":0,\"z\":0},\"84\":{\"x\":0,\"y\":0,\"z\":0},\"85\":{\"x\":0,\"y\":0,\"z\":0},\"86\":{\"x\":0,\"y\":0,\"z\":0},\"87\":{\"x\":0,\"y\":0,\"z\":0},\"88\":{\"x\":0.01,\"y\":0,\"z\":0},\"89\":{\"x\":0,\"y\":0,\"z\":0},\"90\":{\"x\":0,\"y\":0,\"z\":0},\"91\":{\"x\":0,\"y\":0,\"z\":0},\"92\":{\"x\":0,\"y\":0,\"z\":0},\"93\":{\"x\":0,\"y\":0,\"z\":-0.01},\"94\":{\"x\":0,\"y\":0,\"z\":-0.01},\"95\":{\"x\":0,\"y\":0,\"z\":0},\"96\":{\"x\":0,\"y\":0,\"z\":0.01},\"97\":{\"x\":0,\"y\":0,\"z\":0.01},\"98\":{\"x\":0,\"y\":0,\"z\":0},\"99\":{\"x\":0,\"y\":0,\"z\":0},\"100\":{\"x\":0,\"y\":0,\"z\":0},\"101\":{\"x\":0,\"y\":0,\"z\":0},\"102\":{\"x\":0,\"y\":0,\"z\":-0.01},\"103\":{\"x\":-0.01,\"y\":0,\"z\":0},\"104\":{\"x\":0,\"y\":0,\"z\":0},\"105\":{\"x\":0,\"y\":0,\"z\":0},\"106\":{\"x\":0,\"y\":0,\"z\":0},\"107\":{\"x\":0,\"y\":0,\"z\":0},\"108\":{\"x\":0,\"y\":0,\"z\":0},\"109\":{\"x\":0,\"y\":0,\"z\":0},\"110\":{\"x\":0,\"y\":0,\"z\":0},\"111\":{\"x\":0,\"y\":0,\"z\":0},\"112\":{\"x\":0,\"y\":0,\"z\":0},\"113\":{\"x\":0,\"y\":0,\"z\":0},\"114\":{\"x\":0,\"y\":0,\"z\":0},\"115\":{\"x\":0,\"y\":0,\"z\":0},\"116\":{\"x\":0,\"y\":0,\"z\":0},\"117\":{\"x\":0,\"y\":0,\"z\":0},\"118\":{\"x\":0,\"y\":0,\"z\":0},\"119\":{\"x\":0,\"y\":0,\"z\":0},\"120\":{\"x\":0,\"y\":0,\"z\":0},\"121\":{\"x\":0,\"y\":0,\"z\":0},\"122\":{\"x\":0,\"y\":0,\"z\":0},\"123\":{\"x\":0,\"y\":0,\"z\":-0.01},\"124\":{\"x\":-0.01,\"y\":0,\"z\":-0.02},\"125\":{\"x\":0,\"y\":0,\"z\":-0.01},\"126\":{\"x\":0,\"y\":0,\"z\":0.01},\"127\":{\"x\":0,\"y\":0,\"z\":0.01},\"128\":{\"x\":0,\"y\":0,\"z\":0.01},\"129\":{\"x\":0,\"y\":0,\"z\":0.01},\"130\":{\"x\":0,\"y\":0,\"z\":0},\"131\":{\"x\":0,\"y\":0,\"z\":0},\"132\":{\"x\":0,\"y\":0,\"z\":0},\"133\":{\"x\":0,\"y\":0,\"z\":0},\"134\":{\"x\":0,\"y\":0,\"z\":0},\"135\":{\"x\":0,\"y\":0,\"z\":0},\"136\":{\"x\":0,\"y\":0,\"z\":0},\"137\":{\"x\":0,\"y\":0,\"z\":0},\"138\":{\"x\":0,\"y\":0,\"z\":0},\"139\":{\"x\":0,\"y\":0,\"z\":0},\"140\":{\"x\":0,\"y\":0,\"z\":0},\"141\":{\"x\":0,\"y\":0,\"z\":0},\"142\":{\"x\":0,\"y\":-0.01,\"z\":0.01},\"143\":{\"x\":0,\"y\":0,\"z\":0},\"144\":{\"x\":0,\"y\":0,\"z\":0},\"145\":{\"x\":0,\"y\":0,\"z\":0},\"146\":{\"x\":0,\"y\":0,\"z\":-0.01},\"147\":{\"x\":0,\"y\":0,\"z\":0},\"148\":{\"x\":0,\"y\":0,\"z\":0.01},\"149\":{\"x\":0,\"y\":0,\"z\":0},\"150\":{\"x\":0,\"y\":0,\"z\":0},\"151\":{\"x\":0,\"y\":0,\"z\":0},\"152\":{\"x\":0,\"y\":0,\"z\":0},\"153\":{\"x\":0,\"y\":0,\"z\":0},\"154\":{\"x\":0,\"y\":0,\"z\":0},\"155\":{\"x\":0,\"y\":0,\"z\":0},\"156\":{\"x\":0,\"y\":0,\"z\":0},\"157\":{\"x\":0,\"y\":0,\"z\":0},\"158\":{\"x\":0,\"y\":0,\"z\":0},\"159\":{\"x\":0,\"y\":0,\"z\":0},\"160\":{\"x\":0,\"y\":0,\"z\":-0.01},\"161\":{\"x\":0,\"y\":0,\"z\":0},\"162\":{\"x\":0,\"y\":0,\"z\":0},\"163\":{\"x\":0,\"y\":0,\"z\":0},\"164\":{\"x\":0,\"y\":0,\"z\":0},\"165\":{\"x\":0,\"y\":0,\"z\":0},\"166\":{\"x\":0,\"y\":0,\"z\":0},\"167\":{\"x\":0,\"y\":0,\"z\":0},\"168\":{\"x\":0,\"y\":0,\"z\":0},\"169\":{\"x\":0,\"y\":0,\"z\":0},\"170\":{\"x\":0,\"y\":0,\"z\":0},\"171\":{\"x\":0,\"y\":0,\"z\":0},\"172\":{\"x\":0,\"y\":0,\"z\":0},\"173\":{\"x\":0,\"y\":0,\"z\":0},\"174\":{\"x\":0,\"y\":0,\"z\":-0.01},\"175\":{\"x\":0,\"y\":0,\"z\":0},\"176\":{\"x\":0,\"y\":0,\"z\":0.01},\"177\":{\"x\":0,\"y\":0,\"z\":0},\"178\":{\"x\":0,\"y\":0,\"z\":0},\"179\":{\"x\":0,\"y\":0,\"z\":0},\"180\":{\"x\":0,\"y\":0,\"z\":0.01},\"181\":{\"x\":0,\"y\":0,\"z\":0.01},\"182\":{\"x\":0,\"y\":0,\"z\":0},\"183\":{\"x\":0,\"y\":0,\"z\":0},\"184\":{\"x\":0.01,\"y\":-0.01,\"z\":0.01},\"185\":{\"x\":0.02,\"y\":-0.01,\"z\":0.02},\"186\":{\"x\":0.01,\"y\":0,\"z\":0},\"187\":{\"x\":0,\"y\":0,\"z\":-0.01},\"188\":{\"x\":0,\"y\":0,\"z\":-0.01},\"189\":{\"x\":0,\"y\":0,\"z\":0},\"190\":{\"x\":0,\"y\":0.01,\"z\":0},\"191\":{\"x\":0,\"y\":0,\"z\":0},\"192\":{\"x\":0,\"y\":0,\"z\":-0.01},\"193\":{\"x\":0,\"y\":0,\"z\":0},\"194\":{\"x\":0,\"y\":0,\"z\":0},\"195\":{\"x\":0,\"y\":0,\"z\":0},\"196\":{\"x\":0,\"y\":0,\"z\":0},\"197\":{\"x\":0,\"y\":0,\"z\":0},\"198\":{\"x\":0,\"y\":0,\"z\":0},\"199\":{\"x\":0,\"y\":0,\"z\":0},\"200\":{\"x\":0,\"y\":0,\"z\":0},\"201\":{\"x\":0,\"y\":0,\"z\":0},\"202\":{\"x\":0,\"y\":0,\"z\":0.01},\"203\":{\"x\":0,\"y\":0,\"z\":0},\"204\":{\"x\":0,\"y\":0,\"z\":0},\"205\":{\"x\":0,\"y\":0,\"z\":0},\"206\":{\"x\":0,\"y\":0,\"z\":0},\"207\":{\"x\":0,\"y\":0,\"z\":0},\"208\":{\"x\":0,\"y\":0,\"z\":0},\"209\":{\"x\":0,\"y\":0,\"z\":0},\"210\":{\"x\":0,\"y\":0,\"z\":0},\"211\":{\"x\":0,\"y\":0,\"z\":0},\"212\":{\"x\":0,\"y\":0,\"z\":-0.01},\"213\":{\"x\":0,\"y\":0,\"z\":-0.01},\"214\":{\"x\":0,\"y\":0,\"z\":0},\"215\":{\"x\":0,\"y\":0,\"z\":0},\"216\":{\"x\":0,\"y\":0,\"z\":0},\"217\":{\"x\":0,\"y\":0,\"z\":0},\"218\":{\"x\":0,\"y\":0,\"z\":0},\"219\":{\"x\":0,\"y\":0,\"z\":0},\"220\":{\"x\":0,\"y\":0,\"z\":0},\"221\":{\"x\":0,\"y\":0,\"z\":0},\"222\":{\"x\":0,\"y\":0,\"z\":0},\"223\":{\"x\":0,\"y\":0,\"z\":0},\"224\":{\"x\":0,\"y\":0,\"z\":0},\"225\":{\"x\":0,\"y\":0,\"z\":0},\"226\":{\"x\":0,\"y\":0,\"z\":0},\"227\":{\"x\":0,\"y\":0,\"z\":0},\"228\":{\"x\":0,\"y\":0,\"z\":0},\"229\":{\"x\":0,\"y\":0,\"z\":0},\"230\":{\"x\":0,\"y\":0,\"z\":0},\"231\":{\"x\":0,\"y\":0,\"z\":-0.01},\"232\":{\"x\":0,\"y\":0,\"z\":0},\"233\":{\"x\":0,\"y\":0,\"z\":0},\"234\":{\"x\":0,\"y\":0,\"z\":0},\"235\":{\"x\":0,\"y\":0,\"z\":0},\"236\":{\"x\":0,\"y\":0,\"z\":0},\"237\":{\"x\":0,\"y\":0,\"z\":0},\"238\":{\"x\":0,\"y\":0,\"z\":0},\"239\":{\"x\":0,\"y\":0,\"z\":0},\"240\":{\"x\":0,\"y\":0,\"z\":0},\"241\":{\"x\":0,\"y\":0,\"z\":0},\"242\":{\"x\":0,\"y\":0,\"z\":0},\"243\":{\"x\":0,\"y\":0,\"z\":0},\"244\":{\"x\":0,\"y\":0,\"z\":0},\"245\":{\"x\":-0.01,\"y\":0.01,\"z\":-0.01},\"246\":{\"x\":-0.01,\"y\":0,\"z\":-0.01},\"247\":{\"x\":0,\"y\":-0.01,\"z\":0},\"248\":{\"x\":0,\"y\":-0.01,\"z\":0},\"249\":{\"x\":0,\"y\":-0.01,\"z\":0},\"250\":{\"x\":0,\"y\":0,\"z\":0},\"251\":{\"x\":0,\"y\":0,\"z\":0},\"252\":{\"x\":0,\"y\":0,\"z\":0},\"253\":{\"x\":0,\"y\":0,\"z\":0},\"254\":{\"x\":0,\"y\":0,\"z\":0},\"255\":{\"x\":0,\"y\":0,\"z\":0},\"256\":{\"x\":0,\"y\":0,\"z\":0},\"257\":{\"x\":0,\"y\":0,\"z\":0},\"258\":{\"x\":0,\"y\":0,\"z\":0},\"259\":{\"x\":0,\"y\":0,\"z\":0},\"260\":{\"x\":0,\"y\":0,\"z\":0},\"261\":{\"x\":0,\"y\":0,\"z\":0},\"262\":{\"x\":0,\"y\":0,\"z\":0},\"263\":{\"x\":0,\"y\":0,\"z\":0},\"264\":{\"x\":0,\"y\":0,\"z\":0},\"265\":{\"x\":0,\"y\":0,\"z\":0},\"266\":{\"x\":0,\"y\":0,\"z\":0},\"267\":{\"x\":0,\"y\":0,\"z\":0},\"268\":{\"x\":0,\"y\":0,\"z\":0},\"269\":{\"x\":0,\"y\":0,\"z\":0},\"270\":{\"x\":0,\"y\":0,\"z\":0},\"271\":{\"x\":0,\"y\":0,\"z\":0},\"272\":{\"x\":0,\"y\":0,\"z\":0},\"273\":{\"x\":0,\"y\":0,\"z\":0},\"274\":{\"x\":0,\"y\":0,\"z\":0},\"275\":{\"x\":0,\"y\":0,\"z\":0.01},\"276\":{\"x\":0,\"y\":0,\"z\":0},\"277\":{\"x\":0,\"y\":0,\"z\":0},\"278\":{\"x\":0,\"y\":0,\"z\":0},\"279\":{\"x\":0,\"y\":0,\"z\":0.01},\"280\":{\"x\":0,\"y\":0,\"z\":0},\"281\":{\"x\":0,\"y\":0,\"z\":0},\"282\":{\"x\":0,\"y\":0,\"z\":0},\"283\":{\"x\":0,\"y\":0,\"z\":0},\"284\":{\"x\":0,\"y\":0,\"z\":0},\"285\":{\"x\":0,\"y\":0,\"z\":0},\"286\":{\"x\":-0.01,\"y\":0,\"z\":0.01},\"287\":{\"x\":0,\"y\":0,\"z\":0.01},\"288\":{\"x\":0,\"y\":0,\"z\":0.01},\"289\":{\"x\":0,\"y\":-0.01,\"z\":0},\"290\":{\"x\":0,\"y\":0,\"z\":0},\"291\":{\"x\":0,\"y\":0,\"z\":0},\"292\":{\"x\":0,\"y\":0,\"z\":0},\"293\":{\"x\":0,\"y\":0,\"z\":0},\"294\":{\"x\":0,\"y\":0,\"z\":0},\"295\":{\"x\":0,\"y\":0,\"z\":0},\"296\":{\"x\":0,\"y\":0,\"z\":0},\"297\":{\"x\":0,\"y\":0,\"z\":0.01},\"298\":{\"x\":0,\"y\":0,\"z\":0},\"299\":{\"x\":0,\"y\":0,\"z\":0},\"300\":{\"x\":0,\"y\":0,\"z\":0},\"301\":{\"x\":0,\"y\":0,\"z\":0},\"302\":{\"x\":0,\"y\":0,\"z\":0},\"303\":{\"x\":0,\"y\":0,\"z\":0},\"304\":{\"x\":0,\"y\":0,\"z\":0},\"305\":{\"x\":0,\"y\":0,\"z\":0},\"306\":{\"x\":0,\"y\":0.01,\"z\":0},\"307\":{\"x\":0,\"y\":0.01,\"z\":-0.01},\"308\":{\"x\":0,\"y\":0,\"z\":0},\"309\":{\"x\":0,\"y\":0,\"z\":0},\"310\":{\"x\":0,\"y\":0,\"z\":0},\"311\":{\"x\":0,\"y\":0,\"z\":0},\"312\":{\"x\":0,\"y\":0,\"z\":0},\"313\":{\"x\":0,\"y\":0,\"z\":0.01},\"314\":{\"x\":0,\"y\":0,\"z\":0},\"315\":{\"x\":0,\"y\":-0.01,\"z\":-0.01},\"316\":{\"x\":0,\"y\":0,\"z\":0},\"317\":{\"x\":0,\"y\":-0.01,\"z\":0},\"318\":{\"x\":0,\"y\":0,\"z\":0},\"319\":{\"x\":0,\"y\":0,\"z\":0},\"320\":{\"x\":0,\"y\":0,\"z\":0},\"321\":{\"x\":0,\"y\":0,\"z\":0},\"322\":{\"x\":0,\"y\":0,\"z\":0},\"323\":{\"x\":0,\"y\":0,\"z\":0},\"324\":{\"x\":0,\"y\":0,\"z\":0.01},\"325\":{\"x\":0,\"y\":0,\"z\":0.01},\"326\":{\"x\":0,\"y\":0,\"z\":0},\"327\":{\"x\":0,\"y\":0,\"z\":0},\"328\":{\"x\":0,\"y\":0,\"z\":0},\"329\":{\"x\":0,\"y\":0,\"z\":0},\"330\":{\"x\":0,\"y\":0,\"z\":-0.01},\"331\":{\"x\":0,\"y\":0,\"z\":0},\"332\":{\"x\":0,\"y\":0,\"z\":0.01},\"333\":{\"x\":0,\"y\":-0.01,\"z\":0.01},\"334\":{\"x\":0,\"y\":-0.01,\"z\":0},\"335\":{\"x\":0,\"y\":0,\"z\":0},\"336\":{\"x\":0,\"y\":0,\"z\":0},\"337\":{\"x\":0,\"y\":0,\"z\":-0.01},\"338\":{\"x\":0,\"y\":0,\"z\":-0.01},\"339\":{\"x\":0,\"y\":0,\"z\":0},\"340\":{\"x\":0,\"y\":0,\"z\":0.01},\"341\":{\"x\":0,\"y\":0,\"z\":0},\"342\":{\"x\":0,\"y\":0,\"z\":0},\"343\":{\"x\":0,\"y\":0,\"z\":0},\"344\":{\"x\":0,\"y\":0,\"z\":0},\"345\":{\"x\":0,\"y\":0,\"z\":0},\"346\":{\"x\":0,\"y\":0,\"z\":0},\"347\":{\"x\":0,\"y\":0,\"z\":0},\"348\":{\"x\":0,\"y\":0,\"z\":0},\"349\":{\"x\":0,\"y\":0,\"z\":0},\"350\":{\"x\":0,\"y\":0,\"z\":0},\"351\":{\"x\":0,\"y\":0,\"z\":0},\"352\":{\"x\":0,\"y\":0,\"z\":0},\"353\":{\"x\":0,\"y\":0,\"z\":-0.01},\"354\":{\"x\":0,\"y\":0,\"z\":0},\"355\":{\"x\":0,\"y\":0,\"z\":0.01},\"356\":{\"x\":0,\"y\":0,\"z\":0},\"357\":{\"x\":0,\"y\":0,\"z\":-0.01},\"358\":{\"x\":0,\"y\":0,\"z\":-0.01},\"359\":{\"x\":0,\"y\":0,\"z\":0},\"360\":{\"x\":0,\"y\":0,\"z\":0},\"361\":{\"x\":0,\"y\":0,\"z\":0},\"362\":{\"x\":0,\"y\":0,\"z\":0},\"363\":{\"x\":0,\"y\":0,\"z\":0},\"364\":{\"x\":0,\"y\":0,\"z\":0},\"365\":{\"x\":0,\"y\":0,\"z\":0},\"366\":{\"x\":0,\"y\":0.01,\"z\":0},\"367\":{\"x\":-0.01,\"y\":0.01,\"z\":0},\"368\":{\"x\":-0.01,\"y\":0,\"z\":-0.01},\"369\":{\"x\":0,\"y\":0,\"z\":0},\"370\":{\"x\":0.01,\"y\":0,\"z\":0},\"371\":{\"x\":0,\"y\":0,\"z\":0},\"372\":{\"x\":0,\"y\":0,\"z\":0},\"373\":{\"x\":0,\"y\":0,\"z\":0},\"374\":{\"x\":0,\"y\":0,\"z\":0.01},\"375\":{\"x\":0,\"y\":0,\"z\":0.01},\"376\":{\"x\":0,\"y\":0,\"z\":0},\"377\":{\"x\":0,\"y\":0,\"z\":-0.01},\"378\":{\"x\":0,\"y\":0,\"z\":-0.01},\"379\":{\"x\":0,\"y\":0,\"z\":0},\"380\":{\"x\":0,\"y\":0,\"z\":0.01},\"381\":{\"x\":0,\"y\":0,\"z\":0},\"382\":{\"x\":0,\"y\":0,\"z\":0},\"383\":{\"x\":0,\"y\":0,\"z\":0},\"384\":{\"x\":0,\"y\":0,\"z\":0},\"385\":{\"x\":0,\"y\":0,\"z\":0},\"386\":{\"x\":0,\"y\":0,\"z\":0},\"387\":{\"x\":0,\"y\":0,\"z\":0},\"388\":{\"x\":0,\"y\":0,\"z\":0},\"389\":{\"x\":0,\"y\":0,\"z\":0},\"390\":{\"x\":-0.01,\"y\":0,\"z\":0},\"391\":{\"x\":0,\"y\":0,\"z\":0},\"392\":{\"x\":0,\"y\":0,\"z\":0},\"393\":{\"x\":0,\"y\":0,\"z\":0},\"394\":{\"x\":0,\"y\":0,\"z\":0},\"395\":{\"x\":0,\"y\":0,\"z\":0},\"396\":{\"x\":0,\"y\":0,\"z\":0},\"397\":{\"x\":0,\"y\":0,\"z\":0},\"398\":{\"x\":0,\"y\":0,\"z\":0},\"399\":{\"x\":0,\"y\":0,\"z\":0},\"400\":{\"x\":0,\"y\":0,\"z\":0},\"401\":{\"x\":0,\"y\":0,\"z\":0},\"402\":{\"x\":0,\"y\":0,\"z\":0},\"403\":{\"x\":0,\"y\":0,\"z\":0},\"404\":{\"x\":0,\"y\":0,\"z\":0},\"405\":{\"x\":0,\"y\":0,\"z\":0},\"406\":{\"x\":0,\"y\":0,\"z\":0},\"407\":{\"x\":0,\"y\":0,\"z\":0},\"408\":{\"x\":0,\"y\":0,\"z\":0},\"409\":{\"x\":0,\"y\":0,\"z\":0},\"410\":{\"x\":0,\"y\":0,\"z\":0},\"411\":{\"x\":0,\"y\":0,\"z\":0},\"412\":{\"x\":0,\"y\":0,\"z\":0},\"413\":{\"x\":0,\"y\":0,\"z\":0},\"414\":{\"x\":0,\"y\":0,\"z\":0},\"415\":{\"x\":0,\"y\":0,\"z\":0},\"416\":{\"x\":0,\"y\":0,\"z\":0},\"417\":{\"x\":0,\"y\":0,\"z\":0},\"418\":{\"x\":0,\"y\":-0.01,\"z\":0},\"419\":{\"x\":0,\"y\":0,\"z\":0},\"420\":{\"x\":0,\"y\":0,\"z\":0},\"421\":{\"x\":0,\"y\":0,\"z\":0},\"422\":{\"x\":0,\"y\":0,\"z\":0},\"423\":{\"x\":0,\"y\":0,\"z\":0},\"424\":{\"x\":0,\"y\":0,\"z\":0},\"425\":{\"x\":-0.01,\"y\":0,\"z\":0},\"426\":{\"x\":0,\"y\":0,\"z\":0},\"427\":{\"x\":0,\"y\":0,\"z\":0},\"428\":{\"x\":0,\"y\":-0.01,\"z\":0.01},\"429\":{\"x\":0,\"y\":-0.01,\"z\":0.01},\"430\":{\"x\":0,\"y\":0,\"z\":0},\"431\":{\"x\":0,\"y\":0.01,\"z\":0},\"432\":{\"x\":0,\"y\":0,\"z\":0},\"433\":{\"x\":0,\"y\":0,\"z\":0},\"434\":{\"x\":0,\"y\":0,\"z\":0},\"435\":{\"x\":0,\"y\":0,\"z\":0},\"436\":{\"x\":0,\"y\":0,\"z\":0},\"437\":{\"x\":0,\"y\":0,\"z\":0},\"438\":{\"x\":0,\"y\":0,\"z\":0},\"439\":{\"x\":0,\"y\":0,\"z\":0},\"440\":{\"x\":0,\"y\":0,\"z\":0},\"441\":{\"x\":0,\"y\":0,\"z\":0},\"442\":{\"x\":0,\"y\":0.01,\"z\":0},\"443\":{\"x\":0,\"y\":0.01,\"z\":0},\"444\":{\"x\":0,\"y\":0,\"z\":-0.01},\"445\":{\"x\":0,\"y\":0,\"z\":0},\"446\":{\"x\":0,\"y\":0,\"z\":0},\"447\":{\"x\":0,\"y\":0,\"z\":0},\"448\":{\"x\":0,\"y\":0,\"z\":0},\"449\":{\"x\":0,\"y\":0,\"z\":0},\"450\":{\"x\":0,\"y\":0,\"z\":0},\"451\":{\"x\":0,\"y\":0,\"z\":0},\"452\":{\"x\":0,\"y\":0,\"z\":0},\"453\":{\"x\":0,\"y\":0,\"z\":0},\"454\":{\"x\":0,\"y\":0,\"z\":0},\"455\":{\"x\":0,\"y\":0,\"z\":0},\"456\":{\"x\":0,\"y\":0,\"z\":0},\"457\":{\"x\":0,\"y\":0,\"z\":0},\"458\":{\"x\":0,\"y\":0,\"z\":0},\"459\":{\"x\":0,\"y\":0,\"z\":0},\"460\":{\"x\":0,\"y\":0,\"z\":0},\"461\":{\"x\":0,\"y\":0,\"z\":0},\"462\":{\"x\":0,\"y\":0,\"z\":0},\"463\":{\"x\":-0.01,\"y\":0,\"z\":-0.01},\"464\":{\"x\":0,\"y\":0,\"z\":-0.01},\"465\":{\"x\":0,\"y\":0,\"z\":0},\"466\":{\"x\":0,\"y\":0,\"z\":0},\"467\":{\"x\":0,\"y\":0,\"z\":0},\"468\":{\"x\":0,\"y\":0,\"z\":0},\"469\":{\"x\":0,\"y\":0,\"z\":0},\"470\":{\"x\":0,\"y\":0,\"z\":0.01},\"471\":{\"x\":0,\"y\":0,\"z\":0},\"472\":{\"x\":0,\"y\":0,\"z\":0},\"473\":{\"x\":0,\"y\":0,\"z\":0},\"474\":{\"x\":0,\"y\":0,\"z\":0},\"475\":{\"x\":0,\"y\":0,\"z\":0},\"476\":{\"x\":0,\"y\":0,\"z\":-0.01},\"477\":{\"x\":0,\"y\":0,\"z\":-0.01},\"478\":{\"x\":0,\"y\":0,\"z\":0},\"479\":{\"x\":0,\"y\":0,\"z\":0},\"480\":{\"x\":0,\"y\":0,\"z\":0},\"481\":{\"x\":0,\"y\":0,\"z\":0},\"482\":{\"x\":0,\"y\":0,\"z\":0},\"483\":{\"x\":0,\"y\":0,\"z\":0},\"484\":{\"x\":0,\"y\":0,\"z\":-0.01},\"485\":{\"x\":0,\"y\":0,\"z\":-0.01},\"486\":{\"x\":0,\"y\":0,\"z\":0},\"487\":{\"x\":0,\"y\":0,\"z\":0},\"488\":{\"x\":0,\"y\":0,\"z\":0},\"489\":{\"x\":0,\"y\":0,\"z\":0},\"490\":{\"x\":0.01,\"y\":-0.01,\"z\":0.02},\"491\":{\"x\":0.01,\"y\":-0.01,\"z\":0.02},\"492\":{\"x\":0.01,\"y\":0,\"z\":0.01},\"493\":{\"x\":0,\"y\":0.01,\"z\":0},\"494\":{\"x\":0,\"y\":0.01,\"z\":-0.01},\"495\":{\"x\":0,\"y\":0,\"z\":-0.01},\"496\":{\"x\":0,\"y\":0,\"z\":-0.01},\"497\":{\"x\":0,\"y\":0,\"z\":0},\"498\":{\"x\":0,\"y\":0.01,\"z\":0},\"499\":{\"x\":0,\"y\":0,\"z\":0},\"500\":{\"x\":0,\"y\":0,\"z\":0},\"501\":{\"x\":0,\"y\":0,\"z\":0},\"502\":{\"x\":0,\"y\":0,\"z\":0},\"503\":{\"x\":0,\"y\":0,\"z\":0},\"504\":{\"x\":0,\"y\":0,\"z\":0},\"505\":{\"x\":0,\"y\":0,\"z\":0},\"506\":{\"x\":0,\"y\":0,\"z\":0},\"507\":{\"x\":0,\"y\":0,\"z\":0},\"508\":{\"x\":0,\"y\":0,\"z\":0},\"509\":{\"x\":0,\"y\":0,\"z\":0},\"510\":{\"x\":0,\"y\":0,\"z\":0},\"511\":{\"x\":0,\"y\":0,\"z\":0},\"512\":{\"x\":0,\"y\":0,\"z\":0},\"513\":{\"x\":0,\"y\":0,\"z\":0},\"514\":{\"x\":0,\"y\":0,\"z\":0.01},\"515\":{\"x\":0,\"y\":0,\"z\":0},\"516\":{\"x\":0,\"y\":0,\"z\":0},\"517\":{\"x\":0,\"y\":0,\"z\":0},\"518\":{\"x\":0,\"y\":0,\"z\":0},\"519\":{\"x\":0,\"y\":0,\"z\":0},\"520\":{\"x\":0,\"y\":0,\"z\":0},\"521\":{\"x\":0,\"y\":0,\"z\":0},\"522\":{\"x\":0,\"y\":0,\"z\":0},\"523\":{\"x\":0,\"y\":0,\"z\":-0.01},\"524\":{\"x\":0,\"y\":0,\"z\":0},\"525\":{\"x\":0,\"y\":0,\"z\":0},\"526\":{\"x\":0,\"y\":0,\"z\":0},\"527\":{\"x\":0,\"y\":0,\"z\":0},\"528\":{\"x\":0,\"y\":0,\"z\":0},\"529\":{\"x\":0,\"y\":0,\"z\":0.01},\"530\":{\"x\":0,\"y\":0,\"z\":0},\"531\":{\"x\":0,\"y\":0,\"z\":0},\"532\":{\"x\":0,\"y\":0,\"z\":0},\"533\":{\"x\":0,\"y\":0,\"z\":0},\"534\":{\"x\":0,\"y\":0,\"z\":0},\"535\":{\"x\":0,\"y\":0,\"z\":0},\"536\":{\"x\":0,\"y\":0,\"z\":0},\"537\":{\"x\":0,\"y\":0,\"z\":0},\"538\":{\"x\":0,\"y\":0,\"z\":-0.01},\"539\":{\"x\":0,\"y\":0,\"z\":0},\"540\":{\"x\":0,\"y\":0,\"z\":0},\"541\":{\"x\":0,\"y\":0,\"z\":0},\"542\":{\"x\":0,\"y\":-0.01,\"z\":0},\"543\":{\"x\":0,\"y\":0,\"z\":0},\"544\":{\"x\":0,\"y\":0,\"z\":0},\"545\":{\"x\":0,\"y\":0,\"z\":0},\"546\":{\"x\":0,\"y\":0,\"z\":0},\"547\":{\"x\":0,\"y\":0,\"z\":0},\"548\":{\"x\":0,\"y\":0,\"z\":0},\"549\":{\"x\":0,\"y\":0,\"z\":0},\"550\":{\"x\":-0.01,\"y\":0.01,\"z\":0},\"551\":{\"x\":-0.02,\"y\":0,\"z\":-0.01},\"552\":{\"x\":-0.01,\"y\":-0.01,\"z\":-0.01},\"553\":{\"x\":0.01,\"y\":-0.01,\"z\":0.01},\"554\":{\"x\":0.01,\"y\":0,\"z\":0},\"555\":{\"x\":0,\"y\":0,\"z\":0},\"556\":{\"x\":0,\"y\":0,\"z\":0},\"557\":{\"x\":0,\"y\":0,\"z\":0},\"558\":{\"x\":0,\"y\":0,\"z\":0},\"559\":{\"x\":0,\"y\":0,\"z\":0},\"560\":{\"x\":0,\"y\":0,\"z\":0},\"561\":{\"x\":0,\"y\":0,\"z\":0},\"562\":{\"x\":0,\"y\":0,\"z\":0.01},\"563\":{\"x\":0,\"y\":0,\"z\":0},\"564\":{\"x\":0,\"y\":0,\"z\":-0.01},\"565\":{\"x\":0,\"y\":0,\"z\":0},\"566\":{\"x\":0,\"y\":0,\"z\":0},\"567\":{\"x\":0,\"y\":0,\"z\":0},\"568\":{\"x\":0,\"y\":0,\"z\":0},\"569\":{\"x\":0,\"y\":0,\"z\":0},\"570\":{\"x\":0,\"y\":0,\"z\":0},\"571\":{\"x\":0,\"y\":0,\"z\":0},\"572\":{\"x\":0,\"y\":0,\"z\":0},\"573\":{\"x\":0,\"y\":0,\"z\":0},\"574\":{\"x\":0,\"y\":0,\"z\":0},\"575\":{\"x\":0,\"y\":0,\"z\":0},\"576\":{\"x\":0,\"y\":0,\"z\":0},\"577\":{\"x\":0,\"y\":0,\"z\":0},\"578\":{\"x\":0,\"y\":0,\"z\":0},\"579\":{\"x\":0,\"y\":0,\"z\":0},\"580\":{\"x\":0,\"y\":0,\"z\":0},\"581\":{\"x\":0,\"y\":0,\"z\":0},\"582\":{\"x\":0,\"y\":0,\"z\":0},\"583\":{\"x\":0,\"y\":0,\"z\":0},\"584\":{\"x\":0,\"y\":0,\"z\":0},\"585\":{\"x\":0,\"y\":0,\"z\":0},\"586\":{\"x\":0,\"y\":0,\"z\":0},\"587\":{\"x\":0,\"y\":0,\"z\":0},\"588\":{\"x\":0,\"y\":0,\"z\":-0.01},\"589\":{\"x\":0,\"y\":0,\"z\":0},\"590\":{\"x\":0,\"y\":0,\"z\":0},\"591\":{\"x\":0,\"y\":0,\"z\":0},\"592\":{\"x\":0,\"y\":0,\"z\":0},\"593\":{\"x\":0,\"y\":0,\"z\":0},\"594\":{\"x\":0,\"y\":0,\"z\":0.01},\"595\":{\"x\":0,\"y\":0,\"z\":0.01},\"596\":{\"x\":0,\"y\":0,\"z\":0.01},\"597\":{\"x\":0,\"y\":0,\"z\":0.01},\"598\":{\"x\":0,\"y\":0,\"z\":0},\"599\":{\"x\":0,\"y\":0,\"z\":0},\"600\":{\"x\":0,\"y\":0,\"z\":0},\"601\":{\"x\":0,\"y\":0,\"z\":0},\"602\":{\"x\":0,\"y\":-0.01,\"z\":0},\"603\":{\"x\":0,\"y\":-0.01,\"z\":0},\"604\":{\"x\":0,\"y\":0,\"z\":0},\"605\":{\"x\":0,\"y\":0,\"z\":0},\"606\":{\"x\":0,\"y\":0,\"z\":0},\"607\":{\"x\":0,\"y\":0,\"z\":0},\"608\":{\"x\":0,\"y\":0,\"z\":0},\"609\":{\"x\":0,\"y\":0,\"z\":-0.01},\"610\":{\"x\":0,\"y\":0,\"z\":-0.01},\"611\":{\"x\":0,\"y\":0,\"z\":-0.01},\"612\":{\"x\":0,\"y\":0,\"z\":0},\"613\":{\"x\":0,\"y\":0,\"z\":0},\"614\":{\"x\":0,\"y\":0,\"z\":0},\"615\":{\"x\":0,\"y\":0,\"z\":0},\"616\":{\"x\":0,\"y\":0,\"z\":0},\"617\":{\"x\":0,\"y\":0,\"z\":0},\"618\":{\"x\":0,\"y\":0,\"z\":0},\"619\":{\"x\":0,\"y\":0,\"z\":0},\"620\":{\"x\":0,\"y\":0,\"z\":0},\"621\":{\"x\":0,\"y\":0,\"z\":0},\"622\":{\"x\":0,\"y\":0,\"z\":0},\"623\":{\"x\":0,\"y\":0,\"z\":0},\"624\":{\"x\":0,\"y\":0,\"z\":0},\"625\":{\"x\":0,\"y\":0,\"z\":0},\"626\":{\"x\":0,\"y\":0,\"z\":0},\"627\":{\"x\":0,\"y\":0,\"z\":0},\"628\":{\"x\":0,\"y\":0,\"z\":0},\"629\":{\"x\":0,\"y\":0,\"z\":0},\"630\":{\"x\":0,\"y\":0,\"z\":0},\"631\":{\"x\":0,\"y\":0,\"z\":0},\"632\":{\"x\":0,\"y\":0,\"z\":0},\"633\":{\"x\":0,\"y\":0,\"z\":0.01},\"634\":{\"x\":0,\"y\":0,\"z\":0},\"635\":{\"x\":0,\"y\":0,\"z\":0},\"636\":{\"x\":0,\"y\":0,\"z\":-0.01},\"637\":{\"x\":0,\"y\":0,\"z\":0},\"638\":{\"x\":0,\"y\":0,\"z\":0},\"639\":{\"x\":0,\"y\":0,\"z\":0.01},\"640\":{\"x\":0,\"y\":0,\"z\":0.01},\"641\":{\"x\":0,\"y\":0,\"z\":0},\"642\":{\"x\":0,\"y\":0,\"z\":-0.01},\"643\":{\"x\":0,\"y\":0,\"z\":-0.01},\"644\":{\"x\":0,\"y\":0,\"z\":0},\"645\":{\"x\":0,\"y\":0,\"z\":0.01},\"646\":{\"x\":0,\"y\":0,\"z\":0.01},\"647\":{\"x\":0,\"y\":0,\"z\":0.01},\"648\":{\"x\":0,\"y\":0,\"z\":0},\"649\":{\"x\":0,\"y\":0,\"z\":-0.01},\"650\":{\"x\":0,\"y\":0,\"z\":0},\"651\":{\"x\":0.01,\"y\":0,\"z\":0},\"652\":{\"x\":0,\"y\":0,\"z\":0},\"653\":{\"x\":0,\"y\":0,\"z\":0},\"654\":{\"x\":0,\"y\":0,\"z\":0},\"655\":{\"x\":0,\"y\":0,\"z\":-0.01},\"656\":{\"x\":0,\"y\":0,\"z\":-0.01},\"657\":{\"x\":0,\"y\":0,\"z\":0},\"658\":{\"x\":0,\"y\":0,\"z\":0},\"659\":{\"x\":0,\"y\":0,\"z\":0},\"660\":{\"x\":0,\"y\":0,\"z\":0},\"661\":{\"x\":0,\"y\":0,\"z\":0},\"662\":{\"x\":0,\"y\":0,\"z\":0},\"663\":{\"x\":0,\"y\":0,\"z\":0},\"664\":{\"x\":0,\"y\":0,\"z\":-0.01},\"665\":{\"x\":0,\"y\":0,\"z\":-0.01},\"666\":{\"x\":0,\"y\":0,\"z\":0},\"667\":{\"x\":0,\"y\":0,\"z\":0},\"668\":{\"x\":0,\"y\":0,\"z\":0},\"669\":{\"x\":0,\"y\":0,\"z\":0},\"670\":{\"x\":0,\"y\":0,\"z\":0},\"671\":{\"x\":0,\"y\":0,\"z\":0},\"672\":{\"x\":-0.01,\"y\":0,\"z\":0.01},\"673\":{\"x\":-0.02,\"y\":0,\"z\":0},\"674\":{\"x\":0,\"y\":0,\"z\":0},\"675\":{\"x\":0.01,\"y\":0,\"z\":0},\"676\":{\"x\":0,\"y\":0,\"z\":0},\"677\":{\"x\":0,\"y\":0,\"z\":0},\"678\":{\"x\":0,\"y\":0,\"z\":0},\"679\":{\"x\":0,\"y\":0,\"z\":-0.01},\"680\":{\"x\":0,\"y\":0,\"z\":0},\"681\":{\"x\":0,\"y\":0,\"z\":0},\"682\":{\"x\":0.01,\"y\":0,\"z\":-0.01},\"683\":{\"x\":0,\"y\":0,\"z\":0},\"684\":{\"x\":0,\"y\":0,\"z\":0},\"685\":{\"x\":0,\"y\":0,\"z\":0},\"686\":{\"x\":0,\"y\":0,\"z\":0},\"687\":{\"x\":0,\"y\":0,\"z\":0.01},\"688\":{\"x\":0,\"y\":0,\"z\":0},\"689\":{\"x\":0,\"y\":0,\"z\":0},\"690\":{\"x\":0,\"y\":0,\"z\":0},\"691\":{\"x\":0,\"y\":0,\"z\":0.01},\"692\":{\"x\":0,\"y\":0,\"z\":0},\"693\":{\"x\":0,\"y\":0,\"z\":0},\"694\":{\"x\":0,\"y\":0,\"z\":0},\"695\":{\"x\":0,\"y\":0,\"z\":0},\"696\":{\"x\":0,\"y\":0,\"z\":0},\"697\":{\"x\":0,\"y\":0,\"z\":0},\"698\":{\"x\":0,\"y\":0,\"z\":-0.01},\"699\":{\"x\":0,\"y\":0,\"z\":0},\"700\":{\"x\":0,\"y\":0,\"z\":0},\"701\":{\"x\":0,\"y\":0,\"z\":0},\"702\":{\"x\":0,\"y\":0,\"z\":0},\"703\":{\"x\":0,\"y\":0,\"z\":0},\"704\":{\"x\":0,\"y\":0,\"z\":0},\"705\":{\"x\":0,\"y\":0,\"z\":0},\"706\":{\"x\":0,\"y\":0,\"z\":0},\"707\":{\"x\":0,\"y\":0,\"z\":0},\"708\":{\"x\":0,\"y\":0,\"z\":0},\"709\":{\"x\":0,\"y\":0,\"z\":0},\"710\":{\"x\":0,\"y\":0,\"z\":0},\"711\":{\"x\":0,\"y\":0,\"z\":0},\"712\":{\"x\":0,\"y\":0,\"z\":0},\"713\":{\"x\":0,\"y\":0,\"z\":0},\"714\":{\"x\":0,\"y\":0,\"z\":0},\"715\":{\"x\":0,\"y\":0,\"z\":0},\"716\":{\"x\":0,\"y\":0,\"z\":0},\"717\":{\"x\":0,\"y\":0,\"z\":0},\"718\":{\"x\":0,\"y\":0,\"z\":0},\"719\":{\"x\":0,\"y\":0,\"z\":0},\"720\":{\"x\":0,\"y\":0,\"z\":0},\"721\":{\"x\":0,\"y\":0,\"z\":0},\"722\":{\"x\":0,\"y\":0,\"z\":0},\"723\":{\"x\":0,\"y\":0,\"z\":0},\"724\":{\"x\":0,\"y\":0,\"z\":0},\"725\":{\"x\":0,\"y\":0,\"z\":0},\"726\":{\"x\":0,\"y\":0,\"z\":0},\"727\":{\"x\":0,\"y\":0,\"z\":0},\"728\":{\"x\":0,\"y\":0,\"z\":0},\"729\":{\"x\":0,\"y\":0,\"z\":0},\"730\":{\"x\":0,\"y\":0,\"z\":0},\"731\":{\"x\":0,\"y\":0,\"z\":0},\"732\":{\"x\":0,\"y\":0,\"z\":0},\"733\":{\"x\":0,\"y\":0.01,\"z\":0},\"734\":{\"x\":0,\"y\":0,\"z\":0},\"735\":{\"x\":0,\"y\":0,\"z\":0},\"736\":{\"x\":0,\"y\":0,\"z\":0},\"737\":{\"x\":0,\"y\":0,\"z\":0},\"738\":{\"x\":0,\"y\":0,\"z\":0},\"739\":{\"x\":0,\"y\":0,\"z\":0},\"740\":{\"x\":0,\"y\":0,\"z\":0.01},\"741\":{\"x\":0,\"y\":0,\"z\":0},\"742\":{\"x\":0,\"y\":0,\"z\":0},\"743\":{\"x\":0,\"y\":0,\"z\":0},\"744\":{\"x\":0,\"y\":0,\"z\":0},\"745\":{\"x\":0,\"y\":0,\"z\":0},\"746\":{\"x\":0,\"y\":0,\"z\":0},\"747\":{\"x\":0,\"y\":0,\"z\":0},\"748\":{\"x\":0,\"y\":0,\"z\":0},\"749\":{\"x\":0,\"y\":0,\"z\":0},\"750\":{\"x\":0,\"y\":0,\"z\":0},\"751\":{\"x\":0,\"y\":0,\"z\":0},\"752\":{\"x\":0,\"y\":0,\"z\":0},\"753\":{\"x\":0,\"y\":0,\"z\":0},\"754\":{\"x\":0,\"y\":0,\"z\":-0.01},\"755\":{\"x\":0,\"y\":0,\"z\":-0.01},\"756\":{\"x\":0,\"y\":0,\"z\":0},\"757\":{\"x\":0,\"y\":0,\"z\":0},\"758\":{\"x\":0,\"y\":0,\"z\":0},\"759\":{\"x\":0,\"y\":0,\"z\":0},\"760\":{\"x\":0,\"y\":0,\"z\":0},\"761\":{\"x\":0,\"y\":0,\"z\":0},\"762\":{\"x\":0,\"y\":0,\"z\":0},\"763\":{\"x\":0,\"y\":0,\"z\":0.01},\"764\":{\"x\":0,\"y\":0,\"z\":0.01},\"765\":{\"x\":0,\"y\":0,\"z\":0},\"766\":{\"x\":0,\"y\":0,\"z\":0},\"767\":{\"x\":-0.01,\"y\":0,\"z\":0},\"768\":{\"x\":0,\"y\":0,\"z\":0},\"769\":{\"x\":0,\"y\":0,\"z\":-0.01},\"770\":{\"x\":0,\"y\":0,\"z\":0},\"771\":{\"x\":0,\"y\":0,\"z\":0},\"772\":{\"x\":0,\"y\":0,\"z\":0},\"773\":{\"x\":0,\"y\":0,\"z\":0},\"774\":{\"x\":0,\"y\":0,\"z\":0},\"775\":{\"x\":0,\"y\":0,\"z\":0},\"776\":{\"x\":0,\"y\":0,\"z\":-0.01},\"777\":{\"x\":0,\"y\":0,\"z\":0},\"778\":{\"x\":0,\"y\":-0.01,\"z\":0},\"779\":{\"x\":0,\"y\":0,\"z\":0.01},\"780\":{\"x\":0,\"y\":0,\"z\":0},\"781\":{\"x\":0,\"y\":0,\"z\":0},\"782\":{\"x\":0,\"y\":0,\"z\":0},\"783\":{\"x\":0,\"y\":0,\"z\":0},\"784\":{\"x\":0,\"y\":0,\"z\":0},\"785\":{\"x\":0,\"y\":0,\"z\":0},\"786\":{\"x\":0,\"y\":0,\"z\":0},\"787\":{\"x\":0,\"y\":0,\"z\":0},\"788\":{\"x\":0,\"y\":0,\"z\":0},\"789\":{\"x\":0,\"y\":0,\"z\":0},\"790\":{\"x\":0,\"y\":0,\"z\":0},\"791\":{\"x\":0,\"y\":0,\"z\":0},\"792\":{\"x\":0,\"y\":0,\"z\":0},\"793\":{\"x\":0,\"y\":0,\"z\":0},\"794\":{\"x\":0,\"y\":0,\"z\":-0.01},\"795\":{\"x\":0.01,\"y\":-0.02,\"z\":0},\"796\":{\"x\":0.01,\"y\":-0.03,\"z\":0.01},\"797\":{\"x\":0,\"y\":-0.01,\"z\":0.01},\"798\":{\"x\":0,\"y\":0.01,\"z\":-0.01},\"799\":{\"x\":0,\"y\":0.01,\"z\":-0.01},\"800\":{\"x\":0,\"y\":0.01,\"z\":0}}},\"sensor_name\":\"One Channel Vibration Plus\",\"type\":\"sensor_data\",\"addr\":\"00:13:a2:00:41:ea:97:1a\",\"received\":1718995825377,\"original\":{\"mac\":\"00:13:a2:00:41:ea:97:1a\",\"receive_options\":{\"ack\":1,\"broadcast\":1,\"type\":\"DigiMesh\"},\"data\":[127,0,7,3,248,19,0,80,0,1,10,71,0,20,9,23,29,29,255,252,0,36,255,228,255,249,0,29,255,250],\"type\":\"receive_packet\"}}",
+        "payloadType": "json",
+        "x": 490,
+        "y": 300,
+        "wires": [
+            [
+                "bbc3e8edc5f33ae6"
+            ]
+        ]
+    },
+    {
+        "id": "118bdb9e826a1ce8",
+        "type": "websocket out",
+        "z": "b2996e3d20f77b1c",
+        "g": "da1870771e0bc91a",
+        "name": "",
+        "server": "78bb0c9b63576dee",
+        "client": "",
+        "x": 450,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "a4ccda6f636a37fc",
+        "type": "inject",
+        "z": "b2996e3d20f77b1c",
+        "g": "da1870771e0bc91a",
+        "name": "Get configs",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "fire",
+        "payloadType": "str",
+        "x": 190,
+        "y": 140,
+        "wires": [
+            [
+                "118bdb9e826a1ce8"
+            ]
+        ]
+    },
+    {
+        "id": "632e70b5717481b0",
+        "type": "websocket in",
+        "z": "b2996e3d20f77b1c",
+        "g": "da1870771e0bc91a",
+        "name": "",
+        "server": "",
+        "client": "4a5e6144cb89e18e",
+        "x": 230,
+        "y": 200,
+        "wires": [
+            [
+                "44dd99e88b6ee125"
+            ]
+        ]
+    },
+    {
+        "id": "44dd99e88b6ee125",
+        "type": "debug",
+        "z": "b2996e3d20f77b1c",
+        "g": "da1870771e0bc91a",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 480,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "fefbb7c844dfe147",
+        "type": "inject",
+        "z": "b2996e3d20f77b1c",
+        "g": "58ae7d3223e445e1",
+        "name": "Request Time Series",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"sensorSerialNumbers\":[\"00:13:a2:00:42:30:bf:5f\",\"00:13:a2:00:41:ea:97:1a\"]}",
+        "payloadType": "json",
+        "x": 220,
+        "y": 400,
+        "wires": [
+            [
+                "7b2f2898c93648d7"
+            ]
+        ]
+    },
+    {
+        "id": "7b2f2898c93648d7",
+        "type": "websocket out",
+        "z": "b2996e3d20f77b1c",
+        "g": "58ae7d3223e445e1",
+        "name": "",
+        "server": "ca9f4a61b9d251b3",
+        "client": "",
+        "x": 470,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "ec6ce3ad2aac9f01",
+        "type": "websocket in",
+        "z": "b2996e3d20f77b1c",
+        "g": "58ae7d3223e445e1",
+        "name": "",
+        "server": "",
+        "client": "aa34cd665f908805",
+        "x": 250,
+        "y": 460,
+        "wires": [
+            [
+                "1e2baecec9d6d23d"
+            ]
+        ]
+    },
+    {
+        "id": "1e2baecec9d6d23d",
+        "type": "debug",
+        "z": "b2996e3d20f77b1c",
+        "g": "58ae7d3223e445e1",
+        "name": "debug 12",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 540,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "559e7267ee086f77",
+        "type": "websocket in",
+        "z": "b2996e3d20f77b1c",
+        "g": "9eb4ef284614d7e6",
+        "name": "",
+        "server": "1c6e8773832b3428",
+        "client": "",
+        "x": 160,
+        "y": 660,
+        "wires": [
+            [
+                "ca0940903e129e84"
+            ]
+        ]
+    },
+    {
+        "id": "7622be339d8dd82d",
+        "type": "debug",
+        "z": "b2996e3d20f77b1c",
+        "g": "9eb4ef284614d7e6",
+        "name": "debug 14",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 520,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "ca0940903e129e84",
+        "type": "function",
+        "z": "b2996e3d20f77b1c",
+        "g": "9eb4ef284614d7e6",
+        "name": "Parse JSON",
+        "func": "msg.payload = JSON.parse(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 330,
+        "y": 660,
+        "wires": [
+            [
+                "7622be339d8dd82d"
+            ]
+        ]
+    },
+    {
+        "id": "fe4e9e0ddcc644e4",
+        "type": "inject",
+        "z": "b2996e3d20f77b1c",
+        "g": "6da5875a19cb34e5",
+        "name": "Clear Current Configs",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "_blank",
+        "payloadType": "str",
+        "x": 200,
+        "y": 840,
+        "wires": [
+            [
+                "bf424b6dc5ee0c55"
+            ]
+        ]
+    },
+    {
+        "id": "bf424b6dc5ee0c55",
+        "type": "websocket out",
+        "z": "b2996e3d20f77b1c",
+        "g": "6da5875a19cb34e5",
+        "name": "",
+        "server": "dddea81e4abd9fb7",
+        "client": "",
+        "x": 450,
+        "y": 840,
+        "wires": []
+    }
+]
